@@ -8,6 +8,10 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 
 The purpose of this analysis is to build a machine learning model using logistic regression to predict loan status for the company. The dataset contains various features related to borrowers' financial information, such as loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt. By training the model on historical data with known loan statuses, the company aims to use it for future loan applications to automate the decision-making process and identify potential defaulters.
 
+## Collaborators
+
+For this assigment we worked in a group together consisting Erin Willis (TA), Lisa Maccio-Maretto, Irina Tenis, Noah Bazis, Sushil, Murali, & Avis Randle
+
 #### Results
 
 * Accuracy Score: The accuracy score of the machine learning model on the training data is approximately 0.99, which means it correctly predicted 99% of the loan statuses in the training set.
